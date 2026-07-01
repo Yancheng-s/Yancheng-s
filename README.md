@@ -1,8 +1,12 @@
 <div align="center">
 
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=500&lines=PLAYER+ONE;Yancheng-s&repeat=true" />
-  </h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=Yancheng-s&fontSize=70&fontAlignY=40&desc=Agent%20Developer&descAlignY=55&animation=twinkling">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=Yancheng-s&fontSize=70&fontAlignY=40&desc=Agent%20Developer&descAlignY=55&animation=twinkling">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=Yancheng-s&fontSize=70&fontAlignY=40&desc=Agent%20Developer&descAlignY=55&animation=twinkling" />
+  </picture>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=2000&pause=600&color=A78BFA&center=true&vCenter=true&width=600&lines=PLAYER+ONE;Yancheng-s;Agent+Developer;Python+Artisan&repeat=true" />
 
   <p>
     <img src="https://img.shields.io/badge/Level-Lv.42-brightgreen?style=for-the-badge&logo=level&logoColor=white" />
@@ -10,8 +14,29 @@
     <img src="https://img.shields.io/badge/Class-Agent%20Developer-orange?style=for-the-badge&logo=code&logoColor=white" />
   </p>
 
-  <p><em>Agent Developer</em></p>
+</div>
 
+---
+
+### 关于我
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="200" align="center">
+        <img src="https://github.com/Yancheng-s.png" width="140" style="border-radius:50%;border:3px solid #BD93F9" />
+      </td>
+      <td width="500" align="left">
+        <pre>
+- 职业：     Agent 开发者
+- 武器：     Python / TypeScript
+- 专精：     LLM 应用 . 自动化工具
+- 当前任务： 构建更聪明的 AI Agent
+- 座右铭：   Build cool shit
+        </pre>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -30,7 +55,20 @@
 
 <div align="center">
 
-![My Skills](https://skillicons.dev/icons?i=python,fastapi,pytorch,langchain,ts,docker,git,redis,postgres,linux&perline=5)
+<img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,langchain,ts,docker,git,redis,postgres,linux&perline=5" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
 </div>
 
@@ -42,21 +80,33 @@
 
 <table>
   <tr>
-    <th>HP</th>
+    <th>HP (GitHub Stats)</th>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Yancheng-s&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=1A1B27&rank_icon=github" width="380" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Yancheng-s&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=1A1B27&rank_icon=github" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Yancheng-s&show_icons=true&count_private=true&theme=default&hide_border=true&rank_icon=github" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Yancheng-s&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=1A1B27&rank_icon=github" width="400" />
+      </picture>
     </td>
   </tr>
   <tr>
-    <th>ATK</th>
+    <th>ATK (Streak)</th>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yancheng-s&theme=dracula&hide_border=true&background=1A1B27" width="380" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Yancheng-s&theme=dracula&hide_border=true&background=1A1B27" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Yancheng-s&theme=default&hide_border=true" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yancheng-s&theme=dracula&hide_border=true&background=1A1B27" width="400" />
+      </picture>
     </td>
   </tr>
   <tr>
-    <th>INT</th>
+    <th>INT (Languages)</th>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yancheng-s&layout=compact&theme=dracula&hide_border=true&bg_color=1A1B27&langs_count=10" width="380" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yancheng-s&layout=compact&theme=dracula&hide_border=true&bg_color=1A1B27&langs_count=10" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yancheng-s&layout=compact&theme=default&hide_border=true&langs_count=10" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yancheng-s&layout=compact&theme=dracula&hide_border=true&bg_color=1A1B27&langs_count=10" width="400" />
+      </picture>
     </td>
   </tr>
 </table>
@@ -67,9 +117,46 @@
 
 ### 最近活动地图
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yancheng-s&theme=dracula&hide_border=true&area=true&custom_title=Recent%20Activity" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Yancheng-s&theme=dracula&hide_border=true&area=true&custom_title=Recent%20Activity%20(31%20days)" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Yancheng-s&theme=minimal&hide_border=true&area=true&custom_title=Recent%20Activity%20(31%20days)" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yancheng-s&theme=dracula&hide_border=true&area=true&custom_title=Recent%20Activity%20(31%20days)" />
+</picture>
 
 ---
+
+### 精选项目
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yancheng-s&repo=ProfileMax&theme=dracula&hide_border=true&bg_color=1A1B27)](https://github.com/Yancheng-s/ProfileMax)
+
+</div>
+
+---
+
+### 任务日志（最新博文）
+
+<!-- 配置 blog-post-workflow 后自动更新 -->
+<!-- BLOG-POSTS:START -->
+- 暂无博文 -- 配置 blog-post-workflow 后自动更新
+<!-- BLOG-POSTS:END -->
+
+---
+
+### 联系我
+
+<div align="center">
+
+[![Bilibili](https://img.shields.io/badge/Bilibili-FB7299?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/YourUID)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yancheng-s)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Yancheng-s@users.noreply.github.com)
+
+</div>
+
+---
+
+### 贪吃蛇
 
 <div align="center">
 
@@ -85,8 +172,14 @@
 
 <div align="center">
 
-[![Bilibili](https://img.shields.io/badge/Bilibili-FB7299?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/YourUID)
+<img src="https://komarev.com/ghpvc/?username=Yancheng-s&color=blue&style=flat-square&label=Visitors" />
 
-<img src="https://komarev.com/ghpvc/?username=Yancheng-s&color=blue&style=flat-square&label= Visitors" />
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&text=Game%20Over&fontSize=30&fontAlignY=70" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&text=Game%20Over&fontSize=30&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&text=Game%20Over&fontSize=30&fontAlignY=70" />
+</picture>
 
 </div>
