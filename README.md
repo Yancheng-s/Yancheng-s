@@ -80,33 +80,16 @@
 
 <table>
   <tr>
-    <th>HP (GitHub Stats)</th>
     <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Yancheng-s&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=1A1B27&rank_icon=github" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Yancheng-s&show_icons=true&count_private=true&theme=default&hide_border=true&rank_icon=github" />
-        <img src="https://github-readme-stats.vercel.app/api?username=Yancheng-s&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=1A1B27&rank_icon=github" width="400" />
-      </picture>
+      <img src="https://github-readme-stats.vercel.app/api?username=Yancheng-s&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=1A1B27&rank_icon=github" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yancheng-s&theme=dracula&hide_border=true&background=1A1B27" />
     </td>
   </tr>
   <tr>
-    <th>ATK (Streak)</th>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Yancheng-s&theme=dracula&hide_border=true&background=1A1B27" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Yancheng-s&theme=default&hide_border=true" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yancheng-s&theme=dracula&hide_border=true&background=1A1B27" width="400" />
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <th>INT (Languages)</th>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yancheng-s&layout=compact&theme=dracula&hide_border=true&bg_color=1A1B27&langs_count=10" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yancheng-s&layout=compact&theme=default&hide_border=true&langs_count=10" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yancheng-s&layout=compact&theme=dracula&hide_border=true&bg_color=1A1B27&langs_count=10" width="400" />
-      </picture>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yancheng-s&layout=compact&theme=dracula&hide_border=true&bg_color=1A1B27&langs_count=10" />
     </td>
   </tr>
 </table>
@@ -117,11 +100,7 @@
 
 ### 最近活动地图
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Yancheng-s&theme=dracula&hide_border=true&area=true&custom_title=Recent%20Activity%20(31%20days)" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Yancheng-s&theme=minimal&hide_border=true&area=true&custom_title=Recent%20Activity%20(31%20days)" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yancheng-s&theme=dracula&hide_border=true&area=true&custom_title=Recent%20Activity%20(31%20days)" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yancheng-s&theme=dracula&hide_border=true&area=true&custom_title=Recent%20Activity%20(31%20days)" />
 
 ---
 
@@ -129,7 +108,9 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yancheng-s&repo=ProfileMax&theme=dracula&hide_border=true&bg_color=1A1B27)](https://github.com/Yancheng-s/ProfileMax)
+<a href="https://github.com/Yancheng-s/ProfileMax">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yancheng-s&repo=ProfileMax&theme=dracula&hide_border=true&bg_color=1A1B27" />
+</a>
 
 </div>
 
@@ -137,9 +118,8 @@
 
 ### 任务日志（最新博文）
 
-<!-- 配置 blog-post-workflow 后自动更新 -->
 <!-- BLOG-POSTS:START -->
-- 暂无博文 -- 配置 blog-post-workflow 后自动更新
+暂无博文 -- 配置 blog-post-workflow 后自动更新
 <!-- BLOG-POSTS:END -->
 
 ---
@@ -148,9 +128,9 @@
 
 <div align="center">
 
-[![Bilibili](https://img.shields.io/badge/Bilibili-FB7299?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/YourUID)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yancheng-s)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Yancheng-s@users.noreply.github.com)
+<a href="https://space.bilibili.com/YourUID"><img src="https://img.shields.io/badge/Bilibili-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
+<a href="https://github.com/Yancheng-s"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:Yancheng-s@users.noreply.github.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -179,7 +159,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&text=Game%20Over&fontSize=30&fontAlignY=70" />
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&text=Game%20Over&fontSize=30&fontAlignY=70" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&text=Game%20Over&fontSize=30&fontAlignY=70" />
+  <img src="https://raw.githubusercontent.com/Yancheng-s/Yancheng-s/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
