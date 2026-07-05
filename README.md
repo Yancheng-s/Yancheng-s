@@ -98,11 +98,21 @@
 
 <div align="center">
 
-<div align="center">
-
 [![Readme Card](https://gh-stats.com/api/pin?username=Yancheng-s&repo=ProfileMax&hide_border=true)](https://github.com/Yancheng-s/ProfileMax)
 
 </div>
+
+---
+
+### 每日一言 / 编程笑话
+
+<div align="center">
+
+<img src="https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=grow_out_in&layout=modern">
+
+<br><br>
+
+<img src="https://readme-jokes.vercel.app/api?theme=dracula">
 
 </div>
 
@@ -110,9 +120,32 @@
 
 ### 任务日志（最新博文）
 
+<!-- 配置 blog-post-workflow 后自动更新 -->
 <!-- BLOG-POSTS:START -->
 暂无博文 -- 配置 blog-post-workflow 后自动更新
 <!-- BLOG-POSTS:END -->
+
+---
+
+### 综合数据看板
+
+<div align="center">
+
+<a href="https://profile-summary-for-github.netlify.app/">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yancheng-s&theme=dracula">
+</a>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yancheng-s&theme=dracula">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yancheng-s&theme=dracula">
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yancheng-s&theme=dracula">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yancheng-s&theme=dracula">
+
+</div>
 
 ---
 
