@@ -74,7 +74,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yancheng-s&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=1A1B27&rank_icon=github">
+<img src="https://gh-stats.com/api?username=Yancheng-s&show_icons=true&count_private=true&hide_border=true">
 
 <br><br>
 
@@ -82,7 +82,7 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yancheng-s&layout=compact&theme=dracula&hide_border=true&bg_color=1A1B27&langs_count=10">
+<img src="https://gh-stats.com/api/top-langs?username=Yancheng-s&layout=compact&hide_border=true&langs_count=10">
 
 </div>
 
@@ -100,12 +100,7 @@
 
 <div align="center">
 
-<a href="https://github.com/Yancheng-s/ProfileMax">
-  <img src="https://img.shields.io/github/stars/Yancheng-s/ProfileMax?style=for-the-badge&logo=github&logoColor=white&label=ProfileMax%20Stars&color=A78BFA">
-</a>
-<a href="https://github.com/Yancheng-s/ProfileMax">
-  <img src="https://img.shields.io/github/license/Yancheng-s/ProfileMax?style=for-the-badge&label=License&color=blue">
-</a>
+[![Readme Card](https://gh-stats.com/api/pin?username=Yancheng-s&repo=ProfileMax&hide_border=true)](https://github.com/Yancheng-s/ProfileMax)
 
 </div>
 
